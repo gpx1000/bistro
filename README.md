@@ -2,7 +2,8 @@ This is a lightly edited version of Amazon Lumberyard Bistro from NVidia's sampl
 
 Original repository: https://github.com/NVIDIAGameWorks/rtxdi-assets
 
+Derived repository: https://github.com/zeux/niagara_bistro
+
 Modifications:
 
-- Converted DDS files to PNG files (DDS files are still present)
-- Added a glTF camera
+- Converted DDS files to KTX2 files with basisu compression.
